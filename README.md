@@ -16,7 +16,7 @@
 ---
 
 ### 🛠 Tech Stack
-- JavaScript (ES6+), HTML, CSS  
+- JavaScript, HTML, CSS  
 - React, React Native, Git & GitHub  
 - Working with APIs, Responsive Web Design  
 
