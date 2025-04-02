@@ -33,6 +33,10 @@ A clean, modern weather app that fetches real-time data from an API.
 🔗 [GitHub Repo](#) | 🌍 [Live Demo](#)  
 A to-do list with a sleek UI, local storage, and smooth user experience.  
 
+### Recipe Page
+🔗 [GitHub Repo](https://github.com/Michael-Okorie/recipe_page.git) | 🌍 [Live Demo]()
+A recipe page made strictly with HTML, to show proficiency in the markup language.
+
 📌 More exciting projects coming soon...  
 
 ---
